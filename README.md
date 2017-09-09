@@ -34,7 +34,7 @@ Set your personal value for display-timeout in minutes.
 
 ### Refresh (in ms)
 
-Interval in which the value is checked in milliseconds.
+Interval in which the value gets checked in milliseconds.
 
 60000 milliseconds = 60 seconds = Maximum
 
