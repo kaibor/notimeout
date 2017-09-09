@@ -24,13 +24,17 @@ Selected power plan: Balanced (recommended)
 
 ![Configuration window](/screenshots/configuration.png)
 
-### Timeout (in min) - Set your personal value for display-timeout in minutes.
+### Timeout (in min)
+
+Set your personal value for display-timeout in minutes.
 
 0 minutes = No timeout.
 
 300 minutes = 5 hours = Maximum
 
-### Refresh (in ms) - Interval in which the value is checked in milliseconds.
+### Refresh (in ms)
+
+Interval in which the value is checked in milliseconds.
 
 60000 milliseconds = 60 seconds = Maximum
 
