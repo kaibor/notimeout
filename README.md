@@ -45,4 +45,4 @@ Creates an autostart item or deletes it.
 
 Choose if you want to get notifications about changes or not.
 
-### After the configuration, click on the 'Save' button and the application will restarts itself.
+### After the configuration, click on the 'Save' button and the application will restart itself.
