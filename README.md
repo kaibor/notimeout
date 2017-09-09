@@ -1,2 +1,2 @@
 # NoTimeout v1.0
-##Patch for Windows 10 systems, which resets the display timeout
+Patch for Windows 10 systems, which reset the display-timeout counter
