@@ -5,18 +5,18 @@ Selected power plan: Balanced (recommended)
 
 # Startup
 
-1. Download the latest executable from [here](https://github.com/kaibor/notimeout/releases).
-2. Move the file to a folder that does not bother you.
-3. Start it with a double-click.
-4. If the program is started successfully, it displays a notification.
+* Download the latest executable from [here](https://github.com/kaibor/notimeout/releases).
+* Move the file to a folder that does not bother you.
+* Start it with a double-click.
+* If the program is started successfully, it displays a notification.
 
 ![Start notification](/screenshots/notify_start.png)
 
-5. A new notify icon will appear in the taskbar.
+* A new notify icon will appear in the taskbar.
 
 ![Notify Icon](/screenshots/notifyicon.png)
 
-6. Double-click to open the configuration window directly, or right-click to open the context menu
+* Double-click to open the configuration window directly, or right-click to open the context menu
 
 ![Context menu](/screenshots/contextmenu.png)
 
