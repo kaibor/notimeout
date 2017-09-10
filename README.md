@@ -47,3 +47,11 @@ Creates an autostart item or deletes it.
 Choose if you want to get notifications about changes or not.
 
 ### After the configuration, click on the 'Save' button and the application will restart itself.
+
+# Contribute
+
+Do you like this project? I would be very happy if you support it with one of the following things:
+
+* Help me in the translation of the software and the documentation (corrections)
+
+* Bitcoin donation: 1G28HFaB2wAhWHZ6iKP5XTGNZDogs6YAFc
