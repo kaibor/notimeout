@@ -54,4 +54,6 @@ Do you like this project? I would be very happy if you support it with one of th
 
 * Help me in the translation of the software and the documentation (corrections)
 
+* Improve the source code (Visual C# 2017)
+
 * Bitcoin donation: 1G28HFaB2wAhWHZ6iKP5XTGNZDogs6YAFc
