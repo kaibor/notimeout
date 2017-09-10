@@ -1,3 +1,7 @@
+# Note
+
+This patch currently works just for devices with a power supply.
+
 # Requirements
 [.NET Framework 4.6.2](https://www.microsoft.com/en-US/download/details.aspx?id=53344)
 
