@@ -52,6 +52,10 @@ Choose if you want to get notifications about changes or not.
 
 ### After the configuration, click on the 'Save' button and the application will restart itself.
 
+# Mentions
+
+* Thanks to [IcoMoon](https://icomoon.io/) for their free icons!
+
 # Contribute
 
 Do you like this project? I would be very happy if you support it with one of the following things:
